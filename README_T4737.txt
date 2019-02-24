@@ -76,3 +76,18 @@ root@peppermint-Aspire-5560:/home/voltaire/t4737.net# tree
 └── README.txt
 
 10 directories, 54 files
+
+
+
+DNS
+
+t4737.net.
+NS
+ns-752.awsdns-30.net. 
+ns-143.awsdns-17.com. 
+ns-1571.awsdns-04.co.uk. 
+ns-1231.awsdns-25.org.
+-
+SOA
+ns-752.awsdns-30.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+
