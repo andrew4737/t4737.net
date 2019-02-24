@@ -4,6 +4,8 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 Modified for T4737 by A.Scheel on Feb. 23.2019
 
+Canonical: http://t4737.net.s3-website.ca-central-1.amazonaws.com
+
 File Structure is as follows
 
 root@peppermint-Aspire-5560:/home/voltaire/t4737.net# tree
