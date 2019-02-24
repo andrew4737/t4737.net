@@ -77,6 +77,7 @@ root@peppermint-Aspire-5560:/home/voltaire/t4737.net# tree
 
 10 directories, 54 files
 
+CloudFront Domain URL: d2mjuckf3pfbw7.cloudfront.net
 
 
 DNS
